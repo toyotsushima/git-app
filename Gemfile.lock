@@ -233,3 +233,5 @@ RUBY VERSION
 BUNDLED WITH
    2.4.1
 gem 'devise'
+gem 'pry-rails'
+
